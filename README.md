@@ -32,3 +32,9 @@ Deseja excluir algum valor? 10,20,30
 
 Total acumulado entre R$ 1 e R$ 300: R$ 44.715,00
 Depósitos considerados: [1, 2, 3, ..., 9, 11, ..., 299]
+
+## 📎 Planilha do Desafio
+
+Para acompanhar visualmente o progresso do desafio, você pode baixar ou visualizar a planilha oficial em PDF:
+
+📄 [Clique aqui para abrir o arquivo desafio-300-depositos.pdf](desafio-300-depositos.pdf)
