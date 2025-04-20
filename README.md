@@ -37,4 +37,4 @@ Depósitos considerados: [1, 2, 3, ..., 9, 11, ..., 299]
 
 Para acompanhar visualmente o progresso do desafio, você pode baixar ou visualizar a planilha oficial em PDF:
 
-📄 [Clique aqui para abrir o arquivo desafio-300-depositos.pdf](desafio-300-depositos.pdf)
+📄 [Clique aqui para acessar o arquivo PDF no repositório](desafio-300-depositos.pdf)
